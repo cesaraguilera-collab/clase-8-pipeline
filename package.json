@@ -1,0 +1,22 @@
+{
+  "name": "clase-8-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building application...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesaraguilera-collab/clase-8-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cesaraguilera-collab/clase-8-pipeline/issues"
+  },
+  "homepage": "https://github.com/cesaraguilera-collab/clase-8-pipeline#readme"
+}
